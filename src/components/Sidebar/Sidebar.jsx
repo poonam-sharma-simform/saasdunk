@@ -44,12 +44,12 @@ const Sidebar = ({ className }) => {
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <ContactMailIcon fontsize="small" />
+            <ContactMailIcon fontSize="small" />
           </ListItemIcon>
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <PersonIcon fontsize="small" />
+            <PersonIcon fontSize="small" />
           </ListItemIcon>
         </MenuItem>
       </MenuList>
@@ -67,12 +67,12 @@ const Sidebar = ({ className }) => {
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <ContactMailIcon fontsize="small" />
+            <ContactMailIcon fontSize="small" />
           </ListItemIcon>
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <PersonIcon fontsize="small" />
+            <PersonIcon fontSize="small" />
           </ListItemIcon>
         </MenuItem>
       </MenuList>
@@ -90,12 +90,12 @@ const Sidebar = ({ className }) => {
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <ContactMailIcon fontsize="small" />
+            <ContactMailIcon fontSize="small" />
           </ListItemIcon>
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <PersonIcon fontsize="small" />
+            <PersonIcon fontSize="small" />
           </ListItemIcon>
         </MenuItem>
         <MenuItem>
@@ -105,7 +105,7 @@ const Sidebar = ({ className }) => {
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <SettingsIcon fontsize="small" />
+            <SettingsIcon fontSize="small" />
           </ListItemIcon>
         </MenuItem>
       </MenuList>
